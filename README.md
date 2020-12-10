@@ -5,4 +5,4 @@ Repositório criado para apresentar alguns conceitos de estatística básica, co
 - Análise de Componentes Principais (*Principal Component Analysis - PCA*)
 - Tabuleiro de Galton
 - Teste de Hipótese
-- Entropia
+- Entropia e Ganho de Informação

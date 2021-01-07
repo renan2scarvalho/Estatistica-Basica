@@ -6,3 +6,4 @@ Repositório criado para apresentar alguns conceitos de estatística básica, co
 - Tabuleiro de Galton
 - Teste de Hipótese
 - Entropia e Ganho de Informação
+- Paradoxo do Aniversário

@@ -7,4 +7,5 @@ Repositório criado para apresentar alguns conceitos de estatística básica, co
 - Estimador da Densidade de Probablidade (*Kernel Density Estimator - KDE*)
 - Paradoxo do Aniversário
 - Tabuleiro de Galton
+- Teorema Central do Limite
 - Teste de Hipótese

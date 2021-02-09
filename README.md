@@ -1,6 +1,6 @@
 # Estatística Básica
 
-Repositório criado para apresentar alguns conceitos de estatística básica, contendo notebooks sobre diferentes tópicos, dentre eles:
+Repositório criado para apresentar alguns conceitos de estatística básica, álgebra linear, dentre outros tópicos:
 
 - Análise de Componentes Principais (*Principal Component Analysis - PCA*)
 - Cadeia de Markov

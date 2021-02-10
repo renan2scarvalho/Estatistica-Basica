@@ -1,4 +1,4 @@
-# Estatística Básica
+# Estatística Básica :dat: :notebook: :mag_right:
 
 Repositório criado para apresentar alguns conceitos de estatística básica, álgebra linear, dentre outros tópicos:
 

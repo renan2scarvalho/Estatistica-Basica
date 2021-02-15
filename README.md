@@ -11,3 +11,5 @@ Repositório criado para apresentar alguns conceitos de estatística básica, á
 - Tabuleiro de Galton
 - Teorema Central do Limite
 - Teste de Hipótese
+
+Caso algum dos notebooks não carregue, utilizar [este](https://nbviewer.jupyter.org/) link.

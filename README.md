@@ -2,7 +2,7 @@
 
 Repositório criado para apresentar alguns conceitos de estatística básica, álgebra linear, dentre outros tópicos:
 
-- Análise Fatorial (*Factor Analysis*)
+- Análise Fatorial Exploratória (*Exploratory Factor Analysis*)
 - Análise de Componentes Principais (*Principal Component Analysis - PCA*)
 - Cadeia de Markov - Tempo Médio de Abosrção
 - Entropia e Ganho de Informação

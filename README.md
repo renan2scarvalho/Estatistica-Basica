@@ -14,3 +14,5 @@ Repositório criado para apresentar alguns conceitos de (majoritariamente) estat
 - Teste de Hipótese
 
 Caso algum dos notebooks não carregue, utilizar [este](https://nbviewer.jupyter.org/) link.
+
+OBS: alguns notebooks estão em construção --> :construction_worker:

@@ -7,7 +7,7 @@ Repositório criado para apresentar alguns conceitos de (majoritariamente) estat
 - Cadeia de Markov - Tempo Médio de Abosrção
 - Entropia e Ganho de Informação
 - Estimador da Densidade de Probablidade (*Kernel Density Estimator - KDE*)
-- Gradiente Descendente
+- Gradiente Descendente :construction_worker:
 - Paradoxo do Aniversário
 - Tabuleiro de Galton
 - Teorema Central do Limite

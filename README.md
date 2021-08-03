@@ -8,6 +8,7 @@ Repositório criado para apresentar alguns conceitos de (majoritariamente) estat
 - Entropia e Ganho de Informação
 - Estimador da Densidade de Probablidade (*Kernel Density Estimator - KDE*)
 - Gradiente Descendente :construction_worker:
+- Números Aleatórios e Método de Monte Carlo :construction_worker:
 - Paradoxo do Aniversário
 - Tabuleiro de Galton
 - Teorema Central do Limite
